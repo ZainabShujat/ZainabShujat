@@ -5,10 +5,26 @@
     .c2 { fill: #40c463; }
     .c3 { fill: #30a14e; }
     .c4 { fill: #216e39; }
+    
+    @keyframes fadeIn {
+      0% { opacity: 0; transform: scale(0); }
+      50% { opacity: 0.5; transform: scale(1.2); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+    
+    rect {
+      animation: fadeIn 0.6s ease-out backwards;
+    }
+    
+    rect:nth-child(5n+1) { animation-delay: 0.1s; }
+    rect:nth-child(5n+2) { animation-delay: 0.2s; }
+    rect:nth-child(5n+3) { animation-delay: 0.3s; }
+    rect:nth-child(5n+4) { animation-delay: 0.4s; }
+    rect:nth-child(5n) { animation-delay: 0.5s; }
   </style>
   
   <!-- Background -->
-  <rect width="980" height="120" fill="transparent"/>
+  <rect width="980" height="120" fill="transparent" style="animation: none;"/>
   
   <!-- Z -->
   <rect x="10" y="10" width="10" height="10" class="c4"/>
