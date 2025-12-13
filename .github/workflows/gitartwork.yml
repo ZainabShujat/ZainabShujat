@@ -1,16 +1,27 @@
 name: gitartwork from a contribution graph
 on: 
   push:
+  workflow_dispatch:
 jobs:
   build:
     name: Make gitartwork SVG
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: jasineri/gitartwork@v1
         with:
            # Use this username's contribution graph  
            user_name: ZainabShujat
            # Text on contribution graph 
            text: ZAINAB SHUJAT
-      - uses: jasineri/simple-push-action@v1
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add gitartwork.svg
+          git diff --staged --quiet || git commit -m "Generated gitartwork"
+          git push
