@@ -1,14 +1,7 @@
 <div align="center">
 
-<!-- Animated Name Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ZAINAB%20SHUJAT&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
-
-<!-- GitHub Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZainabShujat/ZainabShujat/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZainabShujat/ZainabShujat/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZainabShujat/ZainabShujat/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Animated Typing Effect with Name -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Zainab+Shujat;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 </div>
 
