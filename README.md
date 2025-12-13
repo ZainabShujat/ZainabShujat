@@ -1,6 +1,7 @@
 <div align="center">
 
-![gitartwork](gitartwork.svg)
+<!-- Using external animated service -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=ZAINAB%20SHUJAT&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
