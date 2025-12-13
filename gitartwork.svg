@@ -6,21 +6,29 @@
     .c3 { fill: #30a14e; }
     .c4 { fill: #216e39; }
     
-    @keyframes fadeIn {
-      0% { opacity: 0; transform: scale(0); }
-      50% { opacity: 0.5; transform: scale(1.2); }
-      100% { opacity: 1; transform: scale(1); }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1); }
     }
     
-    rect {
-      animation: fadeIn 0.6s ease-out backwards;
+    @keyframes colorShift {
+      0%, 100% { fill: #216e39; }
+      25% { fill: #30a14e; }
+      50% { fill: #40c463; }
+      75% { fill: #9be9a8; }
     }
     
-    rect:nth-child(5n+1) { animation-delay: 0.1s; }
-    rect:nth-child(5n+2) { animation-delay: 0.2s; }
-    rect:nth-child(5n+3) { animation-delay: 0.3s; }
-    rect:nth-child(5n+4) { animation-delay: 0.4s; }
-    rect:nth-child(5n) { animation-delay: 0.5s; }
+    .c4 {
+      animation: pulse 2s ease-in-out infinite, colorShift 4s ease-in-out infinite;
+    }
+    
+    .c3 {
+      animation: pulse 2s ease-in-out infinite 0.2s, colorShift 4s ease-in-out infinite 0.5s;
+    }
+    
+    .c2 {
+      animation: pulse 2s ease-in-out infinite 0.4s, colorShift 4s ease-in-out infinite 1s;
+    }
   </style>
   
   <!-- Background -->
