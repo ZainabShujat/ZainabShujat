@@ -17,7 +17,7 @@ jobs:
            # Use this username's contribution graph  
            user_name: ZainabShujat
            # Text on contribution graph 
-           text: ZAINAB SHUJAT
+           text: ZAINAB
       - name: Commit and push if changed
         run: |
           git config user.name "GitHub Actions Bot"
