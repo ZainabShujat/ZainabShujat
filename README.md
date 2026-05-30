@@ -67,4 +67,8 @@ TypeScript • React • Next.js • Node.js • MongoDB • Python • Supabase
 
 ### contribution graph
 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainabShujat&theme=github-dark&hide_border=true)
+
+
 because apparently i cope with life by creating repositories.
