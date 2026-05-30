@@ -2,105 +2,69 @@
   <img src="gitartwork.svg" alt="GitArt Banner">
 </p>
 
-<h1 align="center">hi, i'm zainab.</h1>
+# hi, i'm zainab.
 
-<p align="center">
-developer • writer • student
-</p>
+A year ago, till April 2025, my GitHub was almost empty.
 
-<p align="center">
-building worlds that work.
-</p>
+Then I started building things.
 
-<p align="center">
-<a href="https://zainabshujat.dev">portfolio</a> •
-<a href="https://www.linkedin.com/in/zainab-shujat-web-developer">linkedin</a> •
-<a href="https://medium.com/@zainabshujatali/about">medium</a> •
-<a href="https://btechbrain.zainabshujat.dev">b.tech brain</a>
-</p>
+Some became projects.
+
+Some became newsletters.
+
+Some became rabbit holes that refused to stay small.
 
 ---
 
-i like building things.
+### recent rabbit holes
 
-sometimes they're web apps.
+🌌 DeepSpace  
+Realtime virtual study spaces.
 
-sometimes they're newsletters.
+🧩 Sum of Cubes  
+A topology puzzle game inspired by the Partridge Puzzle.
 
-sometimes they're puzzle games.
+🎯 CareerIQ  
+A MERN platform that recommends careers using assessments and ranking systems.
 
-occasionally they become much larger than originally intended.
-
-most of my projects sit somewhere between software, design, curiosity, and trying to make complicated things feel a little less intimidating.
+✍️ Notes From A B. Tech Brain  
+100+ editions about software, AI, problem solving, and learning in public.
 
 ---
 
-## currently wandering into
+### things I keep coming back to
 
-- collaborative study spaces
-- puzzle design
+- making difficult concepts easier to understand
 - educational software
-- technical writing
-- weird side projects that escape containment
+- weird game mechanics
+- collaborative systems
+- writing
+- side projects that get out of hand
 
 ---
 
-## selected work
+### where to find me
 
-### 📚 deepspace
+Portfolio  
+https://zainabshujat.dev
 
-realtime virtual study spaces with ambient accountability and collaborative focus environments.
+B. Tech Brain  
+https://btechbrain.zainabshujat.dev
 
-**typescript**
+LinkedIn  
+https://www.linkedin.com/in/zainab-shujat-web-developer
 
----
-
-### 🧩 sum of cubes
-
-a topology-based spatial puzzle game inspired by the partridge puzzle.
-
-**python • pygame**
+Medium  
+https://medium.com/@zainabshujatali/about
 
 ---
 
-### 🎯 careeriq
+### toolbox
 
-career recommendation platform combining psychometric assessments, skill analysis, and ai-inspired insights.
-
-**mongodb • express • react • node**
+TypeScript • React • Next.js • Node.js • MongoDB • Python • Supabase • Git
 
 ---
 
-### ✍️ notes from a b.tech brain
+### contribution graph
 
-an ongoing experiment in thinking out loud.
-
-100+ editions.
-
-123k+ impressions.
-
-5k+ article views.
-
-built across linkedin, medium, and a custom website.
-
-🌐 https://btechbrain.zainabshujat.dev
-
----
-
-## toolbox
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,python,supabase,git,github,vercel,vscode" />
-</p>
-
----
-
-## activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainabShujat&theme=github-dark&hide_border=true)
-
----
-
-<p align="center">
-built slowly between semesters, curiosity spirals, and late-night debugging sessions.
-</p>
+because apparently i cope with life by creating repositories.
