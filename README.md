@@ -62,7 +62,14 @@ https://medium.com/@zainabshujatali/about
 ### toolbox
 
 TypeScript • React • Next.js • Node.js • MongoDB • Python • Supabase • Git
+---
 
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZainabShujat&theme=tokyonight" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZainabShujat&theme=tokyonight" height="180"/>
+</div>
 ---
 
 ### contribution graph
